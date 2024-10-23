@@ -18,6 +18,3 @@ class VPNMiddleware:
 
 
 # Designed by Ayhan :)
-# Instagram: @ayhan_web_developer
-# Youtube: @ayhan_web_developer
-# Telegram: @ayhan_web_developer
