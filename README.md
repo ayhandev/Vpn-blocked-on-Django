@@ -29,9 +29,3 @@ To use this middleware in your Django project:
    ]
    ```
 
-
-## Contact
-
-* Instagram: @ayhan_web_developer
-* Youtube: @ayhan_web_developer
-* Telegram: @ayhan_web_developer
